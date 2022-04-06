@@ -3,7 +3,6 @@ venv/
 *.pyc
 .idea/
 *.params
-*.mat
 temp*
 results/
 *.bmp
